@@ -130,11 +130,11 @@ solutions that drive business growth.
     <tr>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Web3.js-blue" /> 
+        <img src="https://img.shields.io/badge/Rust-blue" /> 
+        <img src="https://img.shields.io/badge/Solana-blue" /> 
         <img src="https://img.shields.io/badge/Solidity-blue" /> 
         <img src="https://img.shields.io/badge/Ethers.js-blue" /> 
-        <img src="https://img.shields.io/badge/Solana-blue" /> 
         <img src="https://img.shields.io/badge/Golang-blue" /> 
-        <img src="https://img.shields.io/badge/Rust-blue" /> 
         <img src="https://img.shields.io/badge/Smart Contract-blue" /> 
         <img src="https://img.shields.io/badge/Bitcoin-blue" />
       </td>
@@ -159,11 +159,11 @@ solutions that drive business growth.
 <p align="center">
   <!-- <a href="https://www.linkedin.com/in/naruhitokaide" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a> -->
   &nbsp;&nbsp;
-  <a href="mailto:owen.u410@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:junjunhere3@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/bh4WKkVJWClM" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/owenhere410" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://t.me/pure403" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
   <!-- <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a> -->
   
