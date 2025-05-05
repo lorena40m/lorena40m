@@ -91,6 +91,7 @@ solutions that drive business growth.
         <img src="https://img.shields.io/badge/Angular-blue" /> 
         <img src="https://img.shields.io/badge/HTML-blue" /> 
         <img src="https://img.shields.io/badge/React-blue" /> 
+        <img src="https://img.shields.io/badge/Sevelte-blue" /> 
         <img src="https://img.shields.io/badge/CSS-blue" />
         <img src="https://img.shields.io/badge/JavaScript-blue" /> 
         <img src="https://img.shields.io/badge/TypeScript-blue" />
